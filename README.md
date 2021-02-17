@@ -91,3 +91,9 @@ INSTALLED_APPS = [
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
     ```
+
+# Start Server
+
+- `python manage.py runserver`
+
+- `npm run dev`
