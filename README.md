@@ -1,4 +1,4 @@
-# django-react-house-party-app
+# django-react-template-app
 workbench for https://youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j
 
 # Notes 
